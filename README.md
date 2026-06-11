@@ -33,8 +33,7 @@ La comunicación entre dispositivos se realiza mediante el protocolo ESP-NOW, mi
 15. Puesta en marcha
 16. Ejemplo de configuración
 17. Pruebas realizadas
-18. Posibles mejoras futuras
-19. Autores
+18. Autoría
 
 ---
 
@@ -339,6 +338,6 @@ Algunos ejemplos:
 
 ---
 
-# Autor
+# Autoría
 
 Proyecto académico desarrollado por Gonzalo Lucero en el marco del grupo de estudio de IoT de Artes Electrónicas en UNTREF 2026
